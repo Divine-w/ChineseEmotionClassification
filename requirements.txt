@@ -2,5 +2,5 @@ tqdm==4.40.0
 torch==1.2.0
 torchtext==0.6.0
 pytorch_pretrained_bert==0.6.2
-numpy==1.17.4
+numpy==1.22.0
 scikit_learn==0.23.1
